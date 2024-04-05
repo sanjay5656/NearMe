@@ -1,0 +1,36 @@
+.alb {
+    background-color: #ffe4c4;
+}
+.h {
+    text-align: center;
+}
+.adiv {
+    width: 95%;
+    height: fit-content;
+    border: 5px solid rgb(38, 119, 122);
+    margin: 20px auto;
+    padding: 5px;
+}
+.box {
+    width: fit-content;
+    height: fit-content;
+    border: 5px solid rgb(38, 119, 122);
+    margin: 20px auto;
+    padding: 5px;
+    background-color: #afe5c4;
+}
+.aldiv {
+    width: fit-content;
+    border: 5px solid rgb(38, 119, 122);
+    padding: 5px;
+    background-color: rgb(255, 255, 255);
+}
+.alsp {
+    color: #f70000;
+}
+.img {
+    width: fit-content;
+    height: 200px;
+    display: block;
+    margin: 0 auto;
+}
